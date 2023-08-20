@@ -1,0 +1,42 @@
+/* 
+
+.allProduct{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.singleProduct{
+    background-color: red;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+}
+ 
+.singleProduct img{
+    height: 150px;
+    width: 200px;
+}
+
+
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.pagination >span{
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.PageSelected{
+    background-color: rgb(220,220,220);
+}
+
+
+
+
+ */
