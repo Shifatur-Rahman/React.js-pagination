@@ -1,5 +1,4 @@
 /* 
-
 .allProduct{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -18,8 +17,6 @@
     width: 200px;
 }
 
-
-
 .pagination{
     display: flex;
     justify-content: center;
@@ -35,8 +32,5 @@
 .PageSelected{
     background-color: rgb(220,220,220);
 }
-
-
-
 
  */
